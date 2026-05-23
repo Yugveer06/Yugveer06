@@ -1,13 +1,13 @@
-# Hi, I am Yugveer.
+# Yugveer Singh Wadzatia
 
-I am a full-stack software engineer based in Berlin. I spend most of my time building scalable backend systems, developing automated infrastructure, and contributing to open-source developer tools.
+Hello. I am a software engineer based in Berlin. 
 
-My work leans heavily toward performance optimization. I enjoy diving into the lower-level details of web development—like writing zero-regex character scanners in TypeScript to parse heavy data structures, or offloading WASM execution to Web Workers using Rust to keep the main thread unblocked. I prefer building things that are fast, reliable, and fundamentally useful.
+My focus is on backend architecture, systems programming, and building scalable web infrastructure. I appreciate clean code, robust CI/CD pipelines, and writing software that performs reliably under pressure. 
 
-### The Stack
-* **Core**: TypeScript, Rust, Node.js, Go
-* **Frontend**: Next.js, React, Tailwind CSS
-* **Infrastructure & Database**: Docker, Kubernetes, PostgreSQL, ClickHouse, Cloudflare R2
+My primary toolkit revolves around TypeScript, Node.js, and Rust. Whether it is optimizing a REST API or configuring cloud deployments, I enjoy the entire process of taking a system from concept to production.
 
-### Let's Connect
-You can reach out to me via [Email](mailto:yugveersingh06@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yugveer06).
+If you want to discuss backend systems, modern infrastructure, or a potential role, feel free to reach out.
+
+### Connect
+- **Email:** yugveersingh06@gmail.com
+- **LinkedIn:** [in/yugveer06](https://linkedin.com/in/yugveer06)
