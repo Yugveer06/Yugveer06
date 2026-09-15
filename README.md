@@ -1,6 +1,6 @@
 # Yugveer Singh Wadzatia
 
-Hello. I am a software engineer based in Berlin. 
+Hello. I am a software engineer based in Deggendorf. 
 
 My focus is on backend architecture, systems programming, and building scalable web infrastructure. I appreciate clean code, robust CI/CD pipelines, and writing software that performs reliably under pressure. 
 
